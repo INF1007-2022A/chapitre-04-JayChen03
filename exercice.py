@@ -3,15 +3,15 @@
 
 
 def is_even_len(string: str) -> bool:
-    pass
+    return len(chaine)%2==0:
 
 
 def remove_third_char(string: str) -> str:
-    pass
+    return chaine.replace(chaine[2], '')
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-    pass
+    return chaine.replace('w', 'z')
 
 
 def get_number_of_char(string: str, char: str) -> int:
